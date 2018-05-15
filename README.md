@@ -1,3 +1,3 @@
 # spring-config-repo
 
-Kushal
+Kushal.name = a
